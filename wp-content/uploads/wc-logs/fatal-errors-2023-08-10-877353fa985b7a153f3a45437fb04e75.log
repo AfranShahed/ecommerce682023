@@ -1,0 +1,6 @@
+2023-08-10T14:08:02+00:00 CRITICAL Out of memory (allocated 77594624) (tried to allocate 32768 bytes) in C:\xampp\htdocs\ecommerce682023\wp-content\plugins\woocommerce\packages\woocommerce-blocks\patterns\banner.php on line 1
+
+2023-08-10T14:08:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce682023\wp-content\plugins\woocommerce\assets\client\admin\number\index.asset.php on line 1
+
+2023-08-10T14:45:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\ecommerce682023\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
